@@ -1,4 +1,4 @@
-[!MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+<img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"/>
 <h1 align="center">Hi 👋, I'm Nikhil Kashyap</h1>
 <h3 align="center">A passionate frontend developer and Programmar</h3>
 
