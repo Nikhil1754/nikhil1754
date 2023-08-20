@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://nikhil1754.github.io/portfolio.github.io/](https://nikhil1754.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://nikhil1754.github.io/portfolio.github.io/](https://nikhilkashyap-portfolio.netlify.app/)
 
-- 💬 Ask me about **DSA Front End Web Development and Some Motivaton Quotes**
+- 💬 Ask me about **DSA Full Stack Web Development and Some Motivation Quotes**
 
 - 📫 How to reach me **nikhilkashyap819@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-mndR6PFnouJM8ltH0BYKBwUrx9i_T4J/view?usp=sharing](https://drive.google.com/file/d/1-mndR6PFnouJM8ltH0BYKBwUrx9i_T4J/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-mndR6PFnouJM8ltH0BYKBwUrx9i_T4J/view?usp=sharing](https://drive.google.com/file/d/1ejKD1YSP9bJOvDGP7ChgeNasc0n1lPF8/view?usp=sharing)
 
 - ⚡ Fun fact **I am**
 
