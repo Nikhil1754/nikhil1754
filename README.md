@@ -1,20 +1,20 @@
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"/>
 <h1 align="center">Hi 👋, I'm Nikhil Kashyap</h1>
-<h3 align="center">A passionate frontend developer and Programmar</h3>
+<h3 align="center">I am a MERN Stack developer and Programmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil1754&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil1754" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nikhilk15996029" target="blank"><img src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" alt="nikhilk15996029" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://nikhil1754.github.io/portfolio.github.io/](https://nikhilkashyap-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nikhilkashyap-portfolio.netlify.app/]
 
 - 💬 Ask me about **DSA Full Stack Web Development and Some Motivation Quotes**
 
 - 📫 How to reach me **nikhilkashyap819@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-mndR6PFnouJM8ltH0BYKBwUrx9i_T4J/view?usp=sharing](https://drive.google.com/file/d/1ejKD1YSP9bJOvDGP7ChgeNasc0n1lPF8/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ejKD1YSP9bJOvDGP7ChgeNasc0n1lPF8/view]
 
 - ⚡ Fun fact **I am**
 
